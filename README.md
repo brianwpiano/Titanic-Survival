@@ -32,3 +32,26 @@ This project focuses on predicting passenger survival on the Titanic using machi
   - After training the logistic regression model, the `.score()` method is used to evaluate the accuracy of the model on both the training and test sets.
 - **Coefficient Analysis**: The model’s **coefficients** are printed, which show the importance of each feature in the model.
 - **Prediction**: Predicts survival (`Survived`), as well as the probability of survival, for sample passengers (Jack, Rose, and You) using the trained logistic regression model.
+
+- ### Project Screenshot
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220651.png)
+![Alt text](https://github.com/brianwpiano/Billboard-Hot100-Analysis/blob/main/Screenshot%202024-10-14%20120449.png)
+![Alt text](https://github.com/brianwpiano/Billboard-Hot100-Analysis/blob/main/Screenshot%202024-10-14%20121207.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220435.png)
+![Alt text](https://github.com/brianwpiano/Billboard-Hot100-Analysis/blob/main/Screenshot%202024-10-14%20120823.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220523.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220548.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220601.png)
+![Alt text](https://github.com/brianwpiano/billboard-hot100-analysis/blob/main/Screenshot%202024-10-02%20220617.png)
+
+## Run the app
+
+Clone this repo then `cd Titanic-Survival`.
+
+Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
+
+``` bash
+Titanic Survival.ipynb
+```
+
+---
