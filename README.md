@@ -1,5 +1,12 @@
 # Titanic-Survival
 
+This project focuses on predicting passenger survival on the Titanic using machine learning techniques. The dataset includes features like gender, age, and passenger class, which are preprocessed by converting categorical variables into numerical values, handling missing data, and scaling the features. A Logistic Regression model is used to predict survival, and its performance is evaluated using accuracy scores on both training and test datasets. The model is further analyzed by inspecting the feature coefficients and making predictions for sample passengers.
+
+## Requirements:
+- Python 3.x
+- Jupyter Notebook
+- Libraries: pandas, numpy, scikit-learn, matplotlib
+
 ### **Features**
 
 #### **Data Cleaning:**
