@@ -46,12 +46,12 @@ This project focuses on predicting passenger survival on the Titanic using machi
 
 ## Run the app
 
-Clone this repo then `cd Titanic Survival`.
+Clone this repo then `cd Titanic-Survival`.
 
 Assuming you have Python3 installed on a Windows 10 or 11 or on MacOS, run this commands:
 
 ``` bash
-Titanic-Survival.ipynb
+Titanic Survival.ipynb
 ```
 
 ---
